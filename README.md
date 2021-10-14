@@ -41,5 +41,5 @@ Neste desafio trabalhei com links internos e navegação entre páginas.
 Neste desafio foi trabalhado com link internos(nas imagens) e extenos e imagens.  
 
 
-*Todas as imagens e vídeos, são carater acadêmico
+*Todas as imagens e vídeos, são de carater acadêmico.
 
